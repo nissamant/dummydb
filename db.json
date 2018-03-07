@@ -1,7 +1,4 @@
 {
-  "title": "web-v1",
-  "lastModified": "Fri Mar 02 2018 00:06:11 GMT-0800",
-  "tags": ["experience-fragments:variation/web"],
   "root": {
     "header": {
       "logoAltText": "Deloitte",
@@ -15,5 +12,8 @@
       "logoImageSrc": "/content/dam/dd/DeloitteLogo-01.png",
       "logoLink": "#"
     }
+  },
+  "profile": {
+    "name": "typicode"
   }
 }

@@ -11,9 +11,29 @@
       ],
       "logoImageSrc": "/content/dam/dd/DeloitteLogo-01.png",
       "logoLink": "#"
+    },
+    "profile": {
+      "name": "typicode"
+    },
+    "footer": {
+      "quickLinksList": [
+        "{\"linkTitle\":\"Our Services\",\"linkImagePath\":\"\",\"linkDescription\":\"Lorem ipsum dolor sit amet, consectetur\\nadipiscing elit, sed do eiusmod tempor\\nincididunt ut labore et dolore magna aliqua. Ut\\nenim ad minim veniam, quis nostrud\",\"url\":\"\",\"cq:url\":\"\"}",
+        "{\"linkTitle\":\"Contact Us\",\"linkImagePath\":\"\",\"linkDescription\":\"Lorem ipsum dolor sit amet, consectetur\\nadipiscing elit, sed do eiusmod tempor\\nincididunt ut labore et dolore magna aliqua. Ut\\nenim ad minim veniam, quis nostrud\",\"url\":\"\",\"cq:url\":\"\"}"
+      ],
+      "logosList":
+        "{\"logoAltText\":\"Deloitte\",\"imagePath\":\"/content/dam/dd/DeloitteLogo-01.png\",\"url\":\"\",\"cq:url\":\"\"}",
+      "appList": [
+        "{\"text\":\"1512, Lorum impsum dolor\",\"imagePath\":\"/content/dam/dd/icons/Shape.png\",\"url\":\"#\"}",
+        "{\"text\":\"foodstore@deloitte.com\",\"imagePath\":\"/content/dam/dd/icons/Group 5.png\",\"url\":\"#\"}",
+        "{\"text\":\"1800-000-0000\",\"imagePath\":\"/content/dam/dd/icons/call.png\",\"url\":\"#\"}",
+        "{\"text\":\"food@facebook.com\",\"imagePath\":\"/content/dam/dd/icons/Group.png\",\"url\":\"#\"}"
+      ],
+      "linkList": [
+        "{\"text\":\" \",\"url\":\"\",\"cq:url\":\"\",\"subList\":[{\"text\":\"Fruits\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Vegetables\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Meat\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Backery\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Dairy\",\"url\":\"#\",\"cq:url\":\"\"}]}",
+        "{\"text\":\" \",\"url\":\"\",\"cq:url\":\"\",\"subList\":[{\"text\":\"Recipies\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Cook Books\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"E-Books\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Tutorials\",\"url\":\"#\",\"cq:url\":\"\"}]}",
+        "{\"text\":\" \",\"url\":\"\",\"cq:url\":\"\",\"subList\":[{\"text\":\"Coupons\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Wholesale\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Festive\",\"url\":\"#\",\"cq:url\":\"\"}]}",
+        "{\"text\":\" \",\"url\":\"\",\"cq:url\":\"\",\"subList\":[{\"text\":\"Coupons\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"WholeSale\",\"url\":\"#\",\"cq:url\":\"\"},{\"text\":\"Festive\",\"url\":\"#\",\"cq:url\":\"\"}]}"
+      ]
     }
-  },
-  "profile": {
-    "name": "typicode"
   }
 }

@@ -1,19 +1,14 @@
 {
-  "title": "web-v1",
-  "lastModified": "Fri Mar 02 2018 00:06:11 GMT-0800",
-  "tags": ["experience-fragments:variation/web"],
-  "root": {
-    "header": {
-      "logoAltText": "Deloitte",
-      "primaryLinks": [
-        "{\"text\":\"Home\",\"url\":\"#\",\"cq:url\":\"\"}",
-        "{\"text\":\"Shop\",\"url\":\"#\",\"cq:url\":\"\"}",
-        "{\"text\":\"Sale\",\"url\":\"#\",\"cq:url\":\"\"}",
-        "{\"text\":\"Recipes\",\"url\":\"#\",\"cq:url\":\"\"}",
-        "{\"text\":\"Stores\",\"url\":\"#\",\"cq:url\":\"\"}"
-      ],
-      "logoImageSrc": "/content/dam/dd/DeloitteLogo-01.png",
-      "logoLink": "#"
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }

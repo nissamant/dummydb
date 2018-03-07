@@ -1,0 +1,19 @@
+{
+  "title": "web-v1",
+  "lastModified": "Fri Mar 02 2018 00:06:11 GMT-0800",
+  "tags": ["experience-fragments:variation/web"],
+  "root": {
+    "header": {
+      "logoAltText": "Deloitte",
+      "primaryLinks": [
+        "{\"text\":\"Home\",\"url\":\"#\",\"cq:url\":\"\"}",
+        "{\"text\":\"Shop\",\"url\":\"#\",\"cq:url\":\"\"}",
+        "{\"text\":\"Sale\",\"url\":\"#\",\"cq:url\":\"\"}",
+        "{\"text\":\"Recipes\",\"url\":\"#\",\"cq:url\":\"\"}",
+        "{\"text\":\"Stores\",\"url\":\"#\",\"cq:url\":\"\"}"
+      ],
+      "logoImageSrc": "/content/dam/dd/DeloitteLogo-01.png",
+      "logoLink": "#"
+    }
+  }
+}
